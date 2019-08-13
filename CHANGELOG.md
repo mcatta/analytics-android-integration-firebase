@@ -1,8 +1,15 @@
 
 1.3.1 / 2019-07-17
 ==================
+*(Supports analytics-android 4.3.1 and Firebase Core 17.0.1)*
 
   * Change to `implementation`
+  * Firebase Core 17.0.1 requires the following:
+    * `com.android.tools.build:gradle` v3.2.1 or later
+    * `compileSdkVersion` to 28 or later
+    * AndroidX
+
+
 
 1.3.0 / 2019-07-16
 ==================
